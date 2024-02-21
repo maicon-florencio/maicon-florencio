@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WEB application, Microsservice, <br>Java, SpringBoot and actual frameworks.<br>🌱 I’m currently learning complexy struture of soft architect
+🔭 I've been working on WEB application, Microsservice, <br>Java 8 ,11 and 17 , SpringBoot and current frameworks.<br>🌱
 
 
 ## 🌐 Socials:
